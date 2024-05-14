@@ -17,6 +17,7 @@
     <modules>
         <module>EurekaServer</module>
 		<module>EurekaClient</module>
+		<module>EurekaClient1</module>
 	</modules>
     <properties>
 		<java.version>21</java.version>
